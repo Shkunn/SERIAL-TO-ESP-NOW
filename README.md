@@ -9,7 +9,7 @@ First:
 git clone [address of the repo]
 ```
 
-Then you need to push the ESP-NOW/ESP_code/test.ino to your master and ESP-NOW/ESP_code/ESP_slave.ino to your two slaves. 
+Then you need to push the ESP-NOW/ESP_code/ESP_master.ino to your master and ESP-NOW/ESP_code/ESP_slave.ino to your two slaves. 
 
 When everything is connected, yout need to launch the python code:
 ```
